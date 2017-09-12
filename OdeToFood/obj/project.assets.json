@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Redae\\Desktop\\Asp.Net Core Project\\OdeToFood Project\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "C:\\MyRepo\\About-Me\\OdeToFood\\OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "C:\\Users\\Redae\\Desktop\\Asp.Net Core Project\\OdeToFood Project\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectPath": "C:\\MyRepo\\About-Me\\OdeToFood\\OdeToFood.csproj",
       "packagesPath": "C:\\Users\\Redae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Redae\\Desktop\\Asp.Net Core Project\\OdeToFood Project\\OdeToFood\\OdeToFood\\obj\\",
+      "outputPath": "C:\\MyRepo\\About-Me\\OdeToFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
